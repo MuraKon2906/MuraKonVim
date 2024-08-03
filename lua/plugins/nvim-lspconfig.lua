@@ -45,9 +45,9 @@ return {
           "black",
           "debugpy",
           "flake8",
-          "isort",
           "mypy",
           "pylint",
+          "isort",
         },
       })
 
