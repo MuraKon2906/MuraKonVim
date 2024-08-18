@@ -14,6 +14,7 @@ return {
           config = {
             workspaces = {
               notes = "~/notes",
+              monica_prj = "~/monica",
             },
             default_workspace = "notes",
           },
